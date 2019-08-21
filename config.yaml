@@ -15,6 +15,12 @@ Conversation:
       - 'Who are you'
     2:
       - 'Do you have a family'
+    3:
+      - 'Who are we'
+    4:
+      - 'Who teaches us python'
+    5:
+      - 'Who is priyanka'
   answer:
     1:
       - 'I am not the one you expect to be'
@@ -23,6 +29,12 @@ Conversation:
     2:
       - 'Nope i am forever alone'
       - 'The whole world is my family'
+    3:
+      - 'We are the students of the S P Jain Global BDVA Program'
+    4:
+      - 'Professor Aditya Narvekar'
+    5:
+      - 'Priyanka is my bro'
 
 #Send sms with clickatell
 Clickatell:
